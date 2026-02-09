@@ -8,7 +8,7 @@ There is nothing interesting here except the [feed file](/feed.csv).
 |--------------------|---------|--------|------------|-------------|
 | 2a0f:85c1:d31::/48 | FR      | FR-75C | Paris      | 75001       |
 | 2a12:bec4:1cf0::/48| FR      | FR-75C | Paris      |             |
-| 2a12:bec4:1cf1::/48| GB      | FR-75C | Paris      |             |
+| 2a12:bec4:1cf1::/48| FR      | FR-75C | Paris      |             |
 | 2a12:bec4:1cff::/48| CH      | CH-ZH  | Zürich     |             |
 
 ## Range I own or lease
