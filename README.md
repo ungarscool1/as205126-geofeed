@@ -10,6 +10,7 @@ There is nothing interesting here except the [feed file](/feed.csv).
 | 2a12:bec4:1cf0::/48| FR      | FR-75C | Paris      |             |
 | 2a12:bec4:1cf1::/48| FR      | FR-75C | Paris      |             |
 | 2a12:bec4:1cff::/48| CH      | CH-ZH  | Zürich     |             |
+| 2a12:bec4:1cfa::/48| FR      | FR-75C | Paris      |             |
 
 ## Range I own or lease
 
