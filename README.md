@@ -9,8 +9,9 @@ There is nothing interesting here except the [feed file](/feed.csv).
 | 2a0f:85c1:d31::/48 | FR      | FR-75C | Paris      | 75001       |
 | 2a12:bec4:1cf0::/48| FR      | FR-75C | Paris      |             |
 | 2a12:bec4:1cf1::/48| FR      | FR-75C | Paris      |             |
-| 2a12:bec4:1cff::/48| CH      | CH-ZH  | Zürich     |             |
+| 2a12:bec4:1cf2::/48| NL      | NL-NH  | Amsterdam  | 1098 XG     |
 | 2a12:bec4:1cfa::/48| FR      | FR-75C | Paris      |             |
+| 2a12:bec4:1cff::/48| CH      | CH-ZH  | Zürich     |             |
 
 ## Range I own or lease
 
@@ -18,7 +19,7 @@ There is nothing interesting here except the [feed file](/feed.csv).
 
 | prefix              | description        | type  | country |
 |---------------------|--------------------|-------|---------|
-| 2a12:bec4:1cf0::/44 | Testing/"customer" | v6    | multi   |
+| 2a12:bec4:1cf0::/44 | infra/"customer" | v6    | multi   |
 | 2a0f:85c1:d31::/48  | infra/"customer"   | v6    | FR      |
 
 ## Do you want any other info?
